@@ -2,11 +2,24 @@
 
 No dia 1 de maio de 1994, há 30 anos, Ayrton Senna deixa um legado histórico. Senna será sempre um ícone, não só no Brasil, mas em todo o mundo, como um dos maiores pilotos de todos os tempos e um verdadeiro herói dentro e fora das pistas.
 
+O piloto brasileiro foi vítima de um despiste fatal do GP San Marino, em Ímola, um acidente que mudou para sempre a Fórmula 1.
 
+  - [ayrtonsenna-memories.netlify.app](https://ayrtonsenna-memories.netlify.app/)
 
 # Photography Portfolio
 
 > I'll use this site to post mostly Street Photography and photos that I don't post on Unsplash due to their strict guidelines.
+
+## Enviroments
+
+Create .evn.local:
+
+``` 
+NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=''
+CLOUDINARY_API_KEY=''
+CLOUDINARY_API_SECRET=''
+CLOUDINARY_FOLDER=''
+```
 
 ## How to run
 
