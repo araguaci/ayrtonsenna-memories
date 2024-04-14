@@ -6,7 +6,8 @@ function SocialLinks() {
       <a
         href="https://ayrtonsenna-inmemoriam.netlify.app/"
         target="_blank"
-        aria-label="Carreira Ayrton Senna" 
+        aria-label="Carreira Ayrton Senna"
+        alt="Carreira Ayrton Senna"
         title="Carreira Ayrton Senna"
         className="font-semibold text-white/90 hover:text-white"
         rel="noreferrer"
@@ -16,18 +17,16 @@ function SocialLinks() {
       <a
         href="https://www.patreon.com/artesdosul/"
         target="_blank"
-        aria-label="Support my work" 
-        title="Support my work"
+        aria-label="Support my work"
         className="font-semibold text-white/90 hover:text-white"
         rel="noreferrer"
       >
-        <img src="./patreon.svg" width="22" />
+        <Computer />
       </a>
       <a
         href="https://www.artesdosul.com/"
         target="_blank"
-        aria-label="My website"        
-        title="My website"
+        aria-label="My website"
         className="font-semibold text-white/90 hover:text-white"
         rel="noreferrer"
       >

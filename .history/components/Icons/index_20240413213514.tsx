@@ -5,5 +5,5 @@ export { default as Filter } from './Filter'
 export { default as Computer } from './Computer'
 export { default as Facebook } from './Facebook' 
 export { default as Website } from './Website' 
-export { default as Suport } from './Suport' 
+export { default as Artesdosul } from './Artesdosul' 
 

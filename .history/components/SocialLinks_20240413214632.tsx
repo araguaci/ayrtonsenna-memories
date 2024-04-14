@@ -1,33 +1,19 @@
-import { Instagram, Twitter, Camera, Computer, Facebook, Website, Suport } from 'components/Icons'
+import { Instagram, Twitter, Camera, Computer, Facebook, Website, Senna } from 'components/Icons'
 
 function SocialLinks() {
   return (
     <div className="mt-2 flex items-center justify-center gap-3">
       <a
-        href="https://ayrtonsenna-inmemoriam.netlify.app/"
+        href="https://www.artesdosul.com/"
         target="_blank"
-        aria-label="Carreira Ayrton Senna" 
-        title="Carreira Ayrton Senna"
         className="font-semibold text-white/90 hover:text-white"
         rel="noreferrer"
       >
-        <img src="./favicon.png" width="30" />
-      </a>
-      <a
-        href="https://www.patreon.com/artesdosul/"
-        target="_blank"
-        aria-label="Support my work" 
-        title="Support my work"
-        className="font-semibold text-white/90 hover:text-white"
-        rel="noreferrer"
-      >
-        <img src="./patreon.svg" width="22" />
+        <Senna />
       </a>
       <a
         href="https://www.artesdosul.com/"
         target="_blank"
-        aria-label="My website"        
-        title="My website"
         className="font-semibold text-white/90 hover:text-white"
         rel="noreferrer"
       >

@@ -21,7 +21,7 @@ function SocialLinks() {
         className="font-semibold text-white/90 hover:text-white"
         rel="noreferrer"
       >
-        <img src="./patreon.svg" width="22" />
+        <img src="./patreon.svg" width="24" />
       </a>
       <a
         href="https://www.artesdosul.com/"

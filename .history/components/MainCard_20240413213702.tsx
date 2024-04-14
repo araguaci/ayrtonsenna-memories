@@ -10,9 +10,9 @@ export default function MainCard() {
       />
       <div className="absolute inset-0 z-10 flex flex-col justify-end bg-gradient-to-b from-black/10 to-black/80 px-4 py-4">
         <p className="text-sm text-white/75">
-        "Seja você quem for, seja qual for a posição social que você tenha na vida, a mais alta ou a mais baixa, tenha sempre como meta muita força, muita determinação e sempre faça tudo com muito amor e com muita fé em Deus, que um dia você chega lá. De alguma maneira você chega lá."
+        Seja você quem for, seja qual for a posição social que você tenha na vida, a mais alta ou a mais baixa, tenha sempre como meta muita força, muita determinação e sempre faça tudo com muito amor e com muita fé em Deus, que um dia você chega lá. De alguma maneira você chega lá.
         </p>
-        <h1 className="mb-2 text-base font-bold tracking-widest sm:text-base">
+        <h1 className="mb-2 text-lg font-bold tracking-widest sm:text-xl">
         ~~ Ayrton Senna
         </h1>
 
